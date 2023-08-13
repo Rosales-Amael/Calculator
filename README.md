@@ -12,6 +12,7 @@ The goal of this personal project is to create a basic calculator in HTML/CSS/JS
 
 
 ### Screenshot
+![Image of the calculator](calculatrice.png "Calculator image")
 
 ## My Process
 ### Built with
